@@ -1,14 +1,14 @@
 [
-  { "slug": "billing-helper", "name": "Billing Helper" },
-  { "slug": "disbursement-service", "name": "Disbursement Service" },
-  { "slug": "form-service", "name": "Form Service" },
-  { "slug": "ledger-service", "name": "Ledger Service" },
-  { "slug": "notification-service", "name": "Notification Service" },
-  { "slug": "talenta-backyard", "name": "Talenta Backyard" },
-  { "slug": "talenta-backyard-api", "name": "Talenta Backyard API" },
-  { "slug": "talenta-data-api", "name": "Talenta Data API" },
-  { "slug": "talenta-flex-service", "name": "Talenta Flex Service" },
-  { "slug": "talenta-mfe-disbursement", "name": "Talenta MFE Disbursement" },
-  { "slug": "talenta-mfe-forms", "name": "Talenta MFE Forms" },
-  { "slug": "talenta-mfe-ledger", "name": "Talenta MFE Ledger" }
+  { "slug": "billing-helper", "name": "Billing Helper", "kind": "backend" },
+  { "slug": "disbursement-service", "name": "Disbursement Service", "kind": "backend" },
+  { "slug": "form-service", "name": "Form Service", "kind": "backend" },
+  { "slug": "ledger-service", "name": "Ledger Service", "kind": "backend" },
+  { "slug": "notification-service", "name": "Notification Service", "kind": "backend" },
+  { "slug": "talenta-backyard", "name": "Talenta Backyard", "kind": "backend" },
+  { "slug": "talenta-backyard-api", "name": "Talenta Backyard API", "kind": "backend" },
+  { "slug": "talenta-data-api", "name": "Talenta Data API", "kind": "backend" },
+  { "slug": "talenta-flex-service", "name": "Talenta Flex Service", "kind": "backend" },
+  { "slug": "talenta-mfe-disbursement", "name": "Talenta MFE Disbursement", "kind": "frontend" },
+  { "slug": "talenta-mfe-forms", "name": "Talenta MFE Forms", "kind": "frontend" },
+  { "slug": "talenta-mfe-ledger", "name": "Talenta MFE Ledger", "kind": "frontend" }
 ]
